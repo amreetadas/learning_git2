@@ -8,3 +8,5 @@ add some more text
 add more text and fixed the mistake
 
 trying out one more time - some more text here 
+
+another line before checkout etc.
